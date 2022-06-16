@@ -1,7 +1,8 @@
 {
   "name": "landing-page",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://shaldarlab.github.io",
+  "private": false,
   "engines": {
     "node": "16.13.1",
     "npm": "8.x"
@@ -32,6 +33,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,5 +50,8 @@
     ">0.2%",
     "not dead",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
