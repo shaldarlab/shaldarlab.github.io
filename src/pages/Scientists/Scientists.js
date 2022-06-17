@@ -143,7 +143,6 @@ function Scientists() {
                 <div className="scientist_bio">
                   <div className="scientist_bio_row">Deep Chauduri</div>
                   <div className="scientist_bio_row_details">PhD, Chemistry</div>
-                  <div className="scientist_bio_row_details">Junior Research Fellow</div>
                   <div className="scientist_bio_row_unc ">Deep aims to decipher the mechanical activity of chaperones under single-molecule resolution</div>
                 </div>  
 
@@ -173,7 +172,6 @@ function Scientists() {
                 <div className="scientist_bio">
                   <div className="scientist_bio_row">Debojyoti</div>
                   <div className="scientist_bio_row_details">PhD, Biology</div>
-                  <div className="scientist_bio_row_details">Junior Research Fellow</div>
                   <div className="scientist_bio_row_unc ">Debojyoti is interested in understanding the role of mechanochemical signaling in neurodegeneration </div>
 
                 </div>  
