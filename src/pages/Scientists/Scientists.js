@@ -150,7 +150,7 @@ function Scientists() {
                 <div className="social_media_links" style={{padding:"6px"}}>
 
                       <div style={{paddingLeft:"5px"}}>
-                      <a href='' target={"_blank"}> <FiFacebook></FiFacebook></a>
+                      <a href='https://www.facebook.com/deep.chaudhuri.50' target={"_blank"}> <FiFacebook></FiFacebook></a>
                       </div>
                       <div style={{paddingLeft:"5px"}}>
                       <a href='https://orcid.org/0000-0002-0386-9006?lang=en' target={"_blank"}> <FaOrcid></FaOrcid></a>
