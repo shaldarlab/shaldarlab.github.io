@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec172a.chunk.css",
-    "main.js": "/static/js/main.a4aba67e.chunk.js",
-    "main.js.map": "/static/js/main.a4aba67e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e4146fd0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e4146fd0.js.map",
+    "main.js": "/static/js/main.8d3c6260.chunk.js",
+    "main.js.map": "/static/js/main.8d3c6260.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ac85e63.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ac85e63.js.map",
     "static/css/2.e6d2f6ae.chunk.css": "/static/css/2.e6d2f6ae.chunk.css",
-    "static/js/2.b4c4d0ce.chunk.js": "/static/js/2.b4c4d0ce.chunk.js",
-    "static/js/2.b4c4d0ce.chunk.js.map": "/static/js/2.b4c4d0ce.chunk.js.map",
-    "static/js/3.c081e80d.chunk.js": "/static/js/3.c081e80d.chunk.js",
-    "static/js/3.c081e80d.chunk.js.map": "/static/js/3.c081e80d.chunk.js.map",
+    "static/js/2.34010acb.chunk.js": "/static/js/2.34010acb.chunk.js",
+    "static/js/2.34010acb.chunk.js.map": "/static/js/2.34010acb.chunk.js.map",
+    "static/js/3.dd96d110.chunk.js": "/static/js/3.dd96d110.chunk.js",
+    "static/js/3.dd96d110.chunk.js.map": "/static/js/3.dd96d110.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4ddd7f1df3b22ce9da6c1011f11cc573.js": "/precache-manifest.4ddd7f1df3b22ce9da6c1011f11cc573.js",
+    "precache-manifest.9e651651f189dc56f4dcc6870cf7bd48.js": "/precache-manifest.9e651651f189dc56f4dcc6870cf7bd48.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e6d2f6ae.chunk.css.map": "/static/css/2.e6d2f6ae.chunk.css.map",
     "static/css/main.2cec172a.chunk.css.map": "/static/css/main.2cec172a.chunk.css.map",
-    "static/js/2.b4c4d0ce.chunk.js.LICENSE.txt": "/static/js/2.b4c4d0ce.chunk.js.LICENSE.txt",
+    "static/js/2.34010acb.chunk.js.LICENSE.txt": "/static/js/2.34010acb.chunk.js.LICENSE.txt",
     "static/media/Angewandte_Chemie.jpeg": "/static/media/Angewandte_Chemie.25df2483.jpeg",
     "static/media/CoverIssueChemicalScience.jpg": "/static/media/CoverIssueChemicalScience.8fd411b6.jpg",
     "static/media/Debojyoti.jpg": "/static/media/Debojyoti.3b611f63.jpg",
     "static/media/DeepChauduri.jpg": "/static/media/DeepChauduri.0540422a.jpg",
     "static/media/Logo2.png": "/static/media/Logo2.98f45317.png",
+    "static/media/Neurodegeneration.png": "/static/media/Neurodegeneration.d68b949f.png",
     "static/media/Shubhashis.png": "/static/media/Shubhashis.9706ba81.png",
     "static/media/SohamChakr.jpg": "/static/media/SohamChakr.06e5f137.jpg",
     "static/media/Souradeep.jpg": "/static/media/Souradeep.0d91d8e1.jpg",
@@ -64,10 +65,10 @@
     "static/media/tweezerG.gif": "/static/media/tweezerG.6fa245f3.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4146fd0.js",
+    "static/js/runtime-main.0ac85e63.js",
     "static/css/2.e6d2f6ae.chunk.css",
-    "static/js/2.b4c4d0ce.chunk.js",
+    "static/js/2.34010acb.chunk.js",
     "static/css/main.2cec172a.chunk.css",
-    "static/js/main.a4aba67e.chunk.js"
+    "static/js/main.8d3c6260.chunk.js"
   ]
 }
