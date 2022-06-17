@@ -186,7 +186,7 @@ year:"24037–24044, 2011"}
 
       { itemData3.slice(3).map((item,index)=>
       <div className="cite-row">
-      {index+11}. <span id="title">  {item.title}, {item.authors}.</span> <span id="journal">{item.journal}</span>, <span id="year">{item.year}</span>  
+      {index+12}. <span id="title">  {item.title}, {item.authors}.</span> <span id="journal">{item.journal}</span>, <span id="year">{item.year}</span>  
       </div>
       )
       }
