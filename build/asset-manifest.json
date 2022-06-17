@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec172a.chunk.css",
-    "main.js": "/static/js/main.fdca4552.chunk.js",
-    "main.js.map": "/static/js/main.fdca4552.chunk.js.map",
+    "main.js": "/static/js/main.c844cd9a.chunk.js",
+    "main.js.map": "/static/js/main.c844cd9a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0ac85e63.js",
     "runtime-main.js.map": "/static/js/runtime-main.0ac85e63.js.map",
     "static/css/2.e6d2f6ae.chunk.css": "/static/css/2.e6d2f6ae.chunk.css",
-    "static/js/2.34010acb.chunk.js": "/static/js/2.34010acb.chunk.js",
-    "static/js/2.34010acb.chunk.js.map": "/static/js/2.34010acb.chunk.js.map",
+    "static/js/2.01ab37fd.chunk.js": "/static/js/2.01ab37fd.chunk.js",
+    "static/js/2.01ab37fd.chunk.js.map": "/static/js/2.01ab37fd.chunk.js.map",
     "static/js/3.dd96d110.chunk.js": "/static/js/3.dd96d110.chunk.js",
     "static/js/3.dd96d110.chunk.js.map": "/static/js/3.dd96d110.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.afa365b7b45d9949b4b156e2bb170ebd.js": "/precache-manifest.afa365b7b45d9949b4b156e2bb170ebd.js",
+    "precache-manifest.8afb523d9103a0f467325f587291c91c.js": "/precache-manifest.8afb523d9103a0f467325f587291c91c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e6d2f6ae.chunk.css.map": "/static/css/2.e6d2f6ae.chunk.css.map",
     "static/css/main.2cec172a.chunk.css.map": "/static/css/main.2cec172a.chunk.css.map",
-    "static/js/2.34010acb.chunk.js.LICENSE.txt": "/static/js/2.34010acb.chunk.js.LICENSE.txt",
+    "static/js/2.01ab37fd.chunk.js.LICENSE.txt": "/static/js/2.01ab37fd.chunk.js.LICENSE.txt",
     "static/media/Angewandte_Chemie.jpeg": "/static/media/Angewandte_Chemie.25df2483.jpeg",
     "static/media/CoverIssueChemicalScience.jpg": "/static/media/CoverIssueChemicalScience.8fd411b6.jpg",
     "static/media/Debojyoti.jpg": "/static/media/Debojyoti.3b611f63.jpg",
@@ -67,8 +67,8 @@
   "entrypoints": [
     "static/js/runtime-main.0ac85e63.js",
     "static/css/2.e6d2f6ae.chunk.css",
-    "static/js/2.34010acb.chunk.js",
+    "static/js/2.01ab37fd.chunk.js",
     "static/css/main.2cec172a.chunk.css",
-    "static/js/main.fdca4552.chunk.js"
+    "static/js/main.c844cd9a.chunk.js"
   ]
 }
