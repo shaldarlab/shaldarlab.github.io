@@ -44,7 +44,10 @@ function Scientists() {
                       <div style={{paddingLeft:"5px"}}><a href='https://www.facebook.com/shubhasis.haldar.31' target={"_blank"}><FiFacebook></FiFacebook></a>
                       </div>
                       <div style={{paddingLeft:"5px"}}>
-                      <a href='https://www.linkedin.com/feed/' target={"_blank"}> <FiLinkedin></FiLinkedin></a>
+                      <a href='https://in.linkedin.com/in/dr-shubhasis-haldar-17b74177' target={"_blank"}> <FiLinkedin></FiLinkedin></a>
+                      </div>
+                      <div style={{paddingLeft:"5px"}}>
+                      <a href='https://twitter.com/HaldarShubhasis' target={"_blank"}> <FiTwitter></FiTwitter></a>
                       </div>
                       <div style={{paddingLeft:"5px"}}>
                       <a href="mailto:shubhasis.haldar@ashoka.edu.in"><FiMail ></FiMail></a>
@@ -145,7 +148,13 @@ function Scientists() {
                 </div>  
 
                 <div className="social_media_links" style={{padding:"6px"}}>
-                      
+
+                      <div style={{paddingLeft:"5px"}}>
+                      <a href='' target={"_blank"}> <FiFacebook></FiFacebook></a>
+                      </div>
+                      <div style={{paddingLeft:"5px"}}>
+                      <a href='https://orcid.org/0000-0002-0386-9006?lang=en' target={"_blank"}> <FaOrcid></FaOrcid></a>
+                      </div>
                       <div style={{paddingLeft:"5px"}}>
                       <a href='https://www.linkedin.com/in/deep-chaudhuri-a763a01a9' target={"_blank"}> <FiLinkedin></FiLinkedin></a>
                       </div>

@@ -16,6 +16,7 @@ import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 import Tooltip, { tooltipClasses } from '@mui/material/Tooltip';
 
+
 // import Footer from '../components/Footer';
 
 import "./Research.css";
@@ -28,7 +29,7 @@ import biotech from '../images/biotech.png';
 import ashokalogo from '../images/ashoka_logo.png';
 import govt_science from '../images/department_govt_science.png';
 import nserb_india from '../images/nserb_india.png';
-
+import neruodegen from '../images/Neurodegeneration.png';
 import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
 
 
@@ -175,7 +176,7 @@ function Research() {
                                                 {' '}
                                               </React.Fragment>
                                             }>
-                                              <img className="row_img" src={RowImg3}></img>
+                                              <img className="row_img" src={neruodegen}></img>
                                               </HtmlTooltip>
                                               
                                               
